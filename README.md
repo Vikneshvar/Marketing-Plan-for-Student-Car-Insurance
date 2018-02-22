@@ -7,14 +7,14 @@ Product
 They will have a 1 year contract, minimize add ons which include, towing, rental reimbursement to reduce price. The goal is to have better coverage but less add ons that can be obtained through car clubs like AAA. If the student doesn't have AAA they have the option of adding these extras for a small fee. 
 
 Basics include: 
-Bodily injury liability -  provides protection if you injure or kill someone while operating your car. It also provides for a legal defense if another party in the accident files a lawsuit against you.
-Medical payments, no fault or personal injury protection coverage - usually pays for the medical expenses of the injured driver and passengers in your car. There may also be coverage if you are injured by a vehicle as a pedestrian.
-Uninsured motorists coverage -  pays for your injuries caused by an uninsured driver or, in some states, a hit-and-run driver. In some states, there is also uninsured motorist coverage for damage to your vehicle
-Comprehensive physical damage coverage - pays for losses resulting from incidents other than collision. For example, comprehensive insurance covers damage to your car if it is stolen; or damaged by flood, fire or animals. 
-Collision coverage - pays for damage to your car when your car hits, or is hit by, another vehicle or other object.
-Property damage liability -  protects you if your car damages someone else's property. It also provides you with legal defense if another party files a lawsuit against you.
+Bodily injury liability 
+Medical payments, no fault or personal injury protection coverage 
+Uninsured motorists coverage 
+Comprehensive physical damage coverage 
+Collision coverage 
+Property damage liability -
 
-Pricing
+Pricing:
 Educar’s pricing is different based on the contract students prefer. The prices will be affordable to all the students. There is a fee per month, and the option of adding extras
 			Price per month - $64.95 
 			Deductible - $1,000.00   
@@ -25,19 +25,23 @@ The rationale behind pricing is to enter the market with a lower price than comp
 
 
 
-Distribution/Place
+Distribution/Place:
+
 Educar insurance can be available by various means, primarily on a college campus. Since Educar is distributed throughout schools. During the first year we will focus on college campuses. Since this is where our primary target can be easily targeted as a mass. We can set up information at the school of business, where they have an Insurance Department. We can also set up a table at the student union where students can come and ask questions. There will be representatives of Educar there ready to answer questions and compare prices with students.
 We will also focus on social media. College students find more information through social media than anywhere else. We can target social media sites such as Twitter, Instagram and Facebook, where students spend the majority of their time browsing.
 
 Rationale:
+
 The rationale behind the distribution channel is college campuses has large number of students and professionals. This helps us to market the product effectively in large scale. The representatives of Educar present in the college campus help the students to know more about the product and attract more students. 
 By using social media, we will be able to quickly respond to questions that college students have. With the uprise of company Twitter, Facebook, and Instagram pages, we can communicate with our target market in a way that is convenient to them.
 
 
 
-Marketing Communications/Promotion
+Marketing Communications/Promotion:
+
 Educar has various means of marketing communication. It is mainly through the advertisements in the college newspaper, digital advertising through college website, social networking sites. Educar will have a Facebook and Twitter page for maintaining public relations. This page will be a good medium to communicate with students. These pages will help the students to post their queries and it will be answered by the Educar representatives. Engineering journals, magazines and other online journals can also carry promotional items. Our goal is to maintain brand awareness throughout mediums that college students are already used to.
 
 Rationale:
+
 The rationale behind this is that in a introductory stage, we need to build awareness about Educar among college students. Websites, International journals and other technical websites are the common online medium where students spent most of the time. These are the places where Educar will be publishing its advertisements. 
 
